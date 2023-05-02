@@ -1,4 +1,4 @@
-# deploy-github-action
+# Deploy with github action to VPS
 
 ## Server
 ### Access to VPS server
